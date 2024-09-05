@@ -2,6 +2,8 @@
 
 Sound Blocks VR is an Accessible Digital Musical Instrument (ADMI) designed to enable users to engage in collaborative musical performances within augmented and virtual reality (AR/VR) environments. Built using Unity, this project integrates various libraries and SDKs to manage virtual components, support the MIDI (Musical Instrument Digital Interface) protocol for controlling synthesizers, and provide an immersive experience via the Meta XR All-in-One SDK.
 
+Sound Blocks VR is freely available in the form of an Android application package (Android Package Kit, APK) at https://file.io/fOZ0mngYSNda
+
 ## Project Structure
 
 ### Main Scene
